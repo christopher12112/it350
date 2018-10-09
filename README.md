@@ -15,8 +15,6 @@ h1 {
 <h1>Drop it and Save, money, and Space</h1>
 <p>Hello and Welcome to Drop it </p>
 
-</body>
-</html>
 <html>
 <head>
 <style>
