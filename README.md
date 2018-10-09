@@ -3,7 +3,7 @@ Welcome to Drop It
 <head>
 <style>
 body {
-    color: blue;
+    color: white;
 }
 
 h1 {
@@ -13,7 +13,7 @@ h1 {
 </head>
 <body>
 
-<h1>This is heading 1</h1>
+<h1>Drop it Saving, Time, and Space</h1>
 <p>Hello and Weclcome to Drop it </p>
 
 </body>
