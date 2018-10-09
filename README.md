@@ -1,4 +1,3 @@
-Welcome to Drop It
 <html>
 <head>
 <style>
@@ -14,7 +13,7 @@ h1 {
 <body>
 
 <h1>Drop it Saving, Time, and Space</h1>
-<p>Hello and Weclcome to Drop it </p>
+<p>Hello and Welcome to Drop it </p>
 
 </body>
 </html>
