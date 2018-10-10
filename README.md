@@ -20,7 +20,6 @@ body {
 
 </body>
 </html>
-<html>
 <head>
 <style>
    body {
