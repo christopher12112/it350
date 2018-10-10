@@ -18,8 +18,6 @@ body {
   <h1>Drop it</h1>
 </div>
 
-</body>
-</html>
 <head>
 <style>
    body {
