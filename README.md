@@ -32,7 +32,7 @@ body {
 }
 </style>
 </head>
-<body> 
+<body>
 
 <h1>Drop it, Leave it, Save it</h1>
 <p>Hello and Welcome to Drop it </p>
