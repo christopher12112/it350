@@ -27,7 +27,6 @@ body {
     color: blue;
 }
 </style>
-</head>
 <body>
 
 <h1>Drop it, Leave it, Save it</h1>
