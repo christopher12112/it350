@@ -44,7 +44,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
   <div class="w3-content">
     <div class="w3-twothird">
       <h1>Welcome to Dropt It</h1>
-      <h5 class="w3-padding-32">This an up and coming service for small business. Where we provide stations with locker throughout your town where you can deposit goods so that items to be picked up anytime of the day.
+      <h5 class="w3-padding-32">This is  an up and coming service for small business. Where we provide secure locker stations throughout your town where you can deposit goods so that items to be picked up anytime of the day any day a week.
 </h5>
 
       <p class="w3-text-grey">Our services are not just a singular so you can sell your goods on popular sites like Ebay, Amazon, Craigslist, and etc. As long as you have the product you can drop it.
@@ -66,7 +66,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
     <div class="w3-twothird">
       <h1>Ease of life  </h1>
-      <h5 class="w3-padding-32">>The benefits we provide are that the holder is able to safely deposit goods so that the buyer is able to pick it up at any time of the day. The buyer is also emailed or sent a text of a one- time passcode to open the locker, along with other verification for safe retrieval. We offer 24/7 customer care and fair prices for either long term renters or one time users.<</h5>
+      <h5 class="w3-padding-32">>The benefits we provide are that the holder is able to safely deposit goods so that the buyer is able to pick it up at any time of the day. At the time the seller deposits the item, the buyer is  emailed or sent a text of a one- time passcode to open the locker, along with other verifications processes for a safe retrieval. We offer 24/7 customer care and fair pricing for either long term renters or one time users.<</h5>
 
       <p class="w3-text-grey">
         .</p>
