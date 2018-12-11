@@ -71,7 +71,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 
 </h5>
 
-      <p class="w3-text-grey">Its very simple. All we require you to do is to link your seller account or manually input your invoice number per item to require a locker.
+      <p class="w3-text-grey">Its very simple. All we require you to do is to link your seller account or manually input your invoice number per item to require a locker. After your invoice is send we were send you an ticket with your orginal invoice number attached with dropit locker id with the nearest station or wherever you chose. The buyer is than sent an email with the acess code, when the item is droped off and where they have 48 hours to pick up the item.
  </p>
     </div>
   </div>
